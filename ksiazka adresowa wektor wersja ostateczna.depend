@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1595277558 source:c:\users\dariusz krygier\desktop\programowanie\ksiazka adresowa wektor wersja ostateczna\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<windows.h>
+	<fstream>
+	<sstream>
+	<vector>
+	<algorithm>
+
